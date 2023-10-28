@@ -60,6 +60,8 @@ This is a simple project, but you're welcome to contribute to it by improving th
 
 - @piyushr6 for UI improvements.
 
+- @PChitre07 for bin feature.
+
 - The 'Poppins' font used in the project is provided by Google Fonts.
 
 Thank you for using and contributing to this Todo List application!
